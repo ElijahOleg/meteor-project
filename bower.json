@@ -1,0 +1,19 @@
+{
+  "name": "meteor-project",
+  "main": "meteor-project.js",
+  "version": "0.0.0",
+  "authors": [
+    "Elijah <ejoleg@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.0.8"
+  }
+}
